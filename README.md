@@ -28,8 +28,15 @@ import numpy as np # offers comprehensive mathematical functions etc
  * Data Soruces used
     * Autolib-Dataset - http://bit.ly/autolib_dataset
     * Autlib dataset description - https://drive.google.com/a/moringaschool.com/file/d/13DXF2CFWQLeYxxHFekng8HJnH_jtbfpN/view?usp=sharing
-  * Data Analysis used
-    *  
+    * 
+  * Data Cleaning Methods used
+    *  Histogram to check the skewness of the data
+    *  IQR to get rid of outliers in the data
+    *  No null/missing values in the dataset 
+    *  No duplicates in the dataset
+    *  Concatinating of columns in the dataset
+    *  Dropping of unnecessary columns in the dataset
+    
   * Questions to be able to solve the challenge 
      *  1. Identify the most popular hour of the day for picking up a shared electric car (Bluecar) in the city of Paris over the month of April 2018.
      *  2. What is the most popular hour for returning cars?
