@@ -28,7 +28,7 @@ import numpy as np # offers comprehensive mathematical functions etc
  * Data Soruces used
     * Autolib-Dataset - http://bit.ly/autolib_dataset
     * Autlib dataset description - https://drive.google.com/a/moringaschool.com/file/d/13DXF2CFWQLeYxxHFekng8HJnH_jtbfpN/view?usp=sharing
-    * 
+    
   * Data Cleaning Methods used
     *  Histogram to check the skewness of the data
     *  IQR to get rid of outliers in the data
