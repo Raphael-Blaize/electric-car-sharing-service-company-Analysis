@@ -1,4 +1,4 @@
-# electric-car-sharing-service-company-Anlysis
+# electric-car-sharing-service-company-Analysis
 Python Project for an electric-car-sharing -company. Cleaning and Analyzing the datasets in-order to provide insights to electric car usage over time 
 
 #### -- Project Status: [Completed]
